@@ -1,0 +1,9 @@
+<suite name="Regression Suite - 1">
+
+    <test name="LoginAndLogout">
+        <classes>
+            <class name="Testcases.loginTests"></class>
+        </classes>
+    </test>
+
+</suite>
